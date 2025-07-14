@@ -1,0 +1,27 @@
+# Ignore IDE settings for each assignment
+**/.idea/
+
+# Ignore CMake build folders
+**/cmake-build-*/
+
+# Ignore build artifacts across all assignments
+**/*.exe
+**/*.o
+**/*.obj
+**/*.out
+**/*.a
+**/*.so
+**/*.dll
+
+# Ignore CMake-generated files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/Makefile
+**/cmake_install.cmake
+
+# OS and temp files
+**/*~
+**/*.log
+**/*.tmp
+**/.DS_Store
+**/Thumbs.db
