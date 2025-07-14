@@ -68,7 +68,6 @@ int age_check (int age) {
     }
 }
 int main(void) {
-    struct student_t student1;
     char id[8];
     char name[50];
     int age;
