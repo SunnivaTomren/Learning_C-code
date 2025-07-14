@@ -1,3 +1,0 @@
-C:/Users/sunni/Uia/projects/Clion/assigniment_1/cmake-build-debug/CMakeFiles/Clion.dir
-C:/Users/sunni/Uia/projects/Clion/assigniment_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sunni/Uia/projects/Clion/assigniment_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
